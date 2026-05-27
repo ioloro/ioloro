@@ -16,7 +16,7 @@ Since leaving Apple I have a renewed interest in participating in conferences an
 - How [Unreleased Product Name] uses sensing to detect the world around you
 
 Prior Speaking:
-- [Enhance your iPad and iPhone apps for the Shared Space](https://github.com/ioloro](https://developer.apple.com/videos/play/wwdc2023/10094))
+- [Enhance your iPad and iPhone apps for the Shared Space](https://developer.apple.com/videos/play/wwdc2023/10094) (WWDC 2023, Cupertino)
 - Before the code: Discovering your product and customers before the first line of code (DeepDishSwift 2026, Chicago)
 
 ### Community
